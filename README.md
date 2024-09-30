@@ -9,9 +9,7 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full+Stack+Developer;I'm+a+System+Engineer;I'm+a+DevSecOps Engineer"></p>
 
 - 🇻🇳 : I'm from VietNam
-- 👀 : Here is [my personal website](https://ltp.crfnetwork.com/)
-- ✍️ : There is [my blog and articles](https://blog.crfnetwork.com/)
-- 📧 : Contact me at [admin@crfnetwork.com](mailto:admin@crfnetwork.com)
+- 📧 : Contact me at [thanhtd081192@gmail.com](mailto:thanhtd081192@gmail)
 - ❤️ : I'm passionate about:
   - 🔐 Cyber Security
   - 🪐 Operating Systems (Windows & Linux)
