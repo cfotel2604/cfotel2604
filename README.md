@@ -11,7 +11,8 @@
 - 🇻🇳 : I'm from VietNam
 - 📧 : Contact me at [thanhtd081192@gmail.com](mailto:thanhtd081192@gmail)
 - ❤️ : I'm passionate about:
-  - ✳️ Asterisk
+  - ✳️ Asterisk VoIP & Kubernetes
+  - ☁️ Proxy / Signal / Media / Controler
   - 🪐 Operating Systems (Windows & Linux)
   - 🖥️ Developer
 
