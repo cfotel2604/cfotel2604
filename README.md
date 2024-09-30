@@ -53,17 +53,17 @@
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=mb1tel&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=mb1tel)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mb1tel&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=mb1tel)
+[<img src="https://github-readme-stats.vercel.app/api?username=cfotel2604&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=cfotel2604)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfotel2604&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=cfotel2604)
 
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://github-trophies.vercel.app/?username=mb1tel" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=mb1tel&theme=radical&margin-w=4&margin-h=4">
+<a href="https://github-trophies.vercel.app/?username=cfotel2604" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=cfotel2604&theme=radical&margin-w=4&margin-h=4">
 </a>
 
-*User achievement statistics by [Github Trophies](https://github.com/mb1tel/github-trophies)*
+*User achievement statistics by [Github Trophies](https://github.com/cfotel2604/github-trophies)*
 
 ### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -72,8 +72,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=mb1tel">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=mb1tel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=cfotel2604">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=cfotel2604&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
     </tr>
@@ -81,8 +81,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mb1tel">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mb1tel&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cfotel2604">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cfotel2604&theme=dracula"/>
         </a>
       </td>
     </tr>
@@ -90,8 +90,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://activity-graph.herokuapp.com/graph?username=mb1tel">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=mb1tel&theme=dracula">
+        <a href="https://activity-graph.herokuapp.com/graph?username=cfotel2604">
+          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=cfotel2604&theme=dracula">
         </a>
       </td>
     </tr>
@@ -102,13 +102,13 @@
   <tbody>
     <tr>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mb1tel">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mb1tel&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cfotel2604">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cfotel2604&theme=dracula"/>
         </a>
       </th>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mb1tel&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mb1tel&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cfotel2604&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cfotel2604&theme=dracula"/>
         </a>
       </th>
     </tr>
@@ -116,13 +116,13 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mb1tel">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mb1tel&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cfotel2604">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cfotel2604&theme=dracula"/>
         </a>
       </td>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mb1tel">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mb1tel&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cfotel2604">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cfotel2604&theme=dracula"/>
         </a>
       </td>
     </tr>
