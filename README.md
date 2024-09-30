@@ -65,7 +65,8 @@
 
 ### 🌐 My Projects
 - [Dự án phúc lợi xã hội](https://tuoitre.vn/trien-khai-tong-dai-oxymap-ho-tro-mien-phi-oxy-cho-benh-nhan-covid-19-dong-loat-tai-tp-thu-duc-20210912152632536.htm): OxyMap Covid19.
-- [MBO K8S](https://matbao.one/): Mô hình tổng đài trên Kubernetes.
+- [PBX on K8S]: Mô hình tổng đài trên Kubernetes.
+![image](https://github.com/user-attachments/assets/bb6f7c9a-e1f5-4cc5-91fb-62422a7eb82c)
 - ...
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
