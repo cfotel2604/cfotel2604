@@ -32,7 +32,6 @@
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" title="Node.js" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" title="Express.js" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=47A248" title="MySQL" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/SQL-282C35?logo=sql&logoColor=47A249" title="SQL" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=FFCA28" title="PHP" height="25"/> &nbsp;
 
