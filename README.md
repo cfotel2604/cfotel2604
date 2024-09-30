@@ -11,10 +11,9 @@
 - 🇻🇳 : I'm from VietNam
 - 📧 : Contact me at [thanhtd081192@gmail.com](mailto:thanhtd081192@gmail)
 - ❤️ : I'm passionate about:
-  - 🔐 Cyber Security
+  - ✳️ Asterisk
   - 🪐 Operating Systems (Windows & Linux)
-  - 🖥️ Website Developer
-  - 📝 Writeups and Documenting
+  - 🖥️ Developer
 
 ### 🌐 Socials
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
