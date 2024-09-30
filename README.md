@@ -13,6 +13,7 @@
 - ❤️ : I'm passionate about:
   - ✳️ Asterisk VoIP & Kubernetes
   - ☁️ Proxy / Signal / Media / Controler
+  - 🪐 Virtualization (Proxmox & Hyper-V)
   - 🪐 Operating Systems (Windows & Linux) / Virtualization
   - 🖥️ Developer
 
