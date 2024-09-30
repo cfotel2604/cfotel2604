@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=FFCA28" title="PHP" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" title="SHELL_SCRIPT" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" title="PowerShell" height="25"/> &nbsp;
 
 | Skills                      | Description                               				 		|
 |-----------------------------|-----------------------------------------------------------------|
