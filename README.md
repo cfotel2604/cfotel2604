@@ -50,6 +50,19 @@
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" title="WordPress" height="25"/> &nbsp;
 
+| Skills                      | Description                               				 		|
+|-----------------------------|-----------------------------------------------------------------|
+| **DevOps**                  | Deploy and manage the entire process around the product. 	 	|
+| **Linux**                   | Linux system administration and optimization.			 		|
+| **Windows**                 | Windows system administration, support and maintenance.	 		|
+| **Kubernetes**              | Containerized application management and deployment. 		    |
+| **Database**                | Database design, management and optimization.  			 		|
+| **Network**                 | Network infrastructure setup and management.			 		|
+| **Storage**                 | Data storage and backup solution management.			 		|
+| **Asterisk SIP VoIP**       | Develop and manage Asterisk-based VoIP systems.			 		|
+| **SIP Controller** 		  | Build and optimize SIP-related solutions. 				 		|
+| **Developer**               | Software development with different languages ​​and technologies. |
+
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
