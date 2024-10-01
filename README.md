@@ -61,9 +61,8 @@
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![mb1tel's github stats](https://github-readme-stats.vercel.app/api?username=cfotel2604&orgs=mb1tel,evilcorp,fsociety)
-[<img src="https://github-readme-stats.vercel.app/api?username=cfotel2604&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=cfotel2604)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfotel2604&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=cfotel2604)
+[<img src="https://github-readme-stats.vercel.app/api?username=cfotel2604&orgs=mb1tel&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=cfotel2604&orgs=mb1tel)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfotel2604&orgs=mb1tel&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=cfotel2604&orgs=mb1tel)
 
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
