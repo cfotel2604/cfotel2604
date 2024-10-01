@@ -11,10 +11,10 @@
 - 🇻🇳 : I'm from VietNam
 - 📧 : Contact me at [thanhtd081192@gmail.com](mailto:thanhtd081192@gmail)
 - ❤️ : I'm passionate about:
-  - ✳️ Asterisk VoIP & Kubernetes
-  - ☁️ Proxy / Signal / Media / Controler
+  - ✳️ VoIP System & Containerized
+  - ☁️ SIP Handler & Controller
   - 🪐 Virtualization (Proxmox & Hyper-V)
-  - 🪐 Operating Systems (Windows & Linux) / Virtualization
+  - 🪐 Operating Systems (Windows & Linux)
   - 🖥️ Developer
 
 ### 🌐 Socials
@@ -61,6 +61,7 @@
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&orgs=acme,evilcorp,fsociety)
 [<img src="https://github-readme-stats.vercel.app/api?username=cfotel2604&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=cfotel2604)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfotel2604&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=cfotel2604)
 
