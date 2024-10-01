@@ -6,8 +6,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full+Stack+Developer;I'm+a+System+Engineer;I'm+a+DevSecOps Engineer"></p>
-
 - 🇻🇳 : I'm from VietNam
 - 📧 : Contact me at [thanhtd081192@gmail.com](mailto:thanhtd081192@gmail)
 - ❤️ : I'm passionate about:
@@ -84,7 +82,7 @@ Project [Tags] & Containerd (--on-premise--)
 Triển khai hệ thống VoIP PBX Cloud and On-Premise, Multi-tenant IP PBX, nhanh chóng, tự động và tối ưu tài nguyên.
 
 # Tính năng
-- **Bao gồm tất cả tính năng của tổng đài truyền thống**
+- Bao gồm tất cả tính năng của tổng đài truyền thống
 - Khởi tạo nhanh chóng tổng đài MBO với đầy đủ tính năng.(60 seconds install time from 0)
 - Kịch bản tổng đài PBX tích hợp dựa trên Asterisk®
 - Giao diện người dùng và WEB quản lý kỹ thuật - FreePBX® (với các mô-đun được tải xuống mặc định để triển khai ban đầu nhanh hơn)
@@ -117,7 +115,7 @@ Triển khai hệ thống VoIP PBX Cloud and On-Premise, Multi-tenant IP PBX, nh
 #### mbPBX CLI (Asterisk):
 ![mbpbx-console](https://github.com/user-attachments/assets/c72bc4c4-06a9-45fb-8d50-b4893d4e8187)
 
-#### Lens manage:
+#### k8s Lens:
 ![lens-dashboard](https://github.com/user-attachments/assets/d9b9a73d-08bd-40b5-98ed-5d33a369827a)
 
 # Deploy mbPBX
