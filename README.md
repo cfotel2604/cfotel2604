@@ -84,6 +84,7 @@ Project [Tags] & Containerd (--on-premise--)
 Triển khai hệ thống VoIP PBX Cloud and On-Premise, Multi-tenant IP PBX, nhanh chóng, tự động và tối ưu tài nguyên.
 
 # Tính năng
+**- Bao gồm tất cả tính năng của tổng đài truyền thống**
 - Khởi tạo nhanh chóng tổng đài MBO với đầy đủ tính năng.(60 seconds install time from 0)
 - Kịch bản tổng đài PBX tích hợp dựa trên Asterisk®
 - Giao diện người dùng và WEB quản lý kỹ thuật - FreePBX® (với các mô-đun được tải xuống mặc định để triển khai ban đầu nhanh hơn)
@@ -92,7 +93,6 @@ Triển khai hệ thống VoIP PBX Cloud and On-Premise, Multi-tenant IP PBX, nh
 - Kích thước container image nhỏ gọn (~640 MB so với 2400 MB tệp ISO FreePBX chính thức)
 - Multi-tenant IP PBX solution on Kubernetes
 - K8S Persistent storage mode and Ceph shared
-- Bao gồm tất cả tính năng của tổng đài truyền thống
 - Container Img bundle:
 	+ Fail2ban SIP và HTTP brute force attacks
 	+ Tích hợp Zabbix, giám sát tình trạng dịch vụ (VoIP Team)
