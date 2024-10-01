@@ -65,7 +65,7 @@
 # Name
 ![image](https://github.com/user-attachments/assets/8a265034-56de-4e10-9fa7-28cea6411920)
 
-![image](https://github.com/user-attachments/assets/9a8dd0ba-b3d5-420c-bea6-6585f4018997) mbPBX Cloud Native VoIP Telephony System
+![image](https://github.com/user-attachments/assets/9a8dd0ba-b3d5-420c-bea6-6585f4018997) mbPBX Cloud VoIP Telephony System
 
 # Description
 mbPBX is a VoIP phone system based on the Asterisk Engine.
