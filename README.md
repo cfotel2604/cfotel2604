@@ -60,7 +60,7 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=cfotel2604&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=cfotel2604)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugoviti&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=ugoviti)
 
-========================================================================================
+
 
 # Name
 ![image](https://github.com/user-attachments/assets/8a265034-56de-4e10-9fa7-28cea6411920)
