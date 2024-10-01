@@ -60,7 +60,7 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=cfotel2604&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=cfotel2604)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugoviti&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=ugoviti)
 
-============================================================================================
+========================================================================================
 
 # Name
 ![image](https://github.com/user-attachments/assets/8a265034-56de-4e10-9fa7-28cea6411920)
@@ -80,13 +80,13 @@ mb1tel! 20.16.16 (build: 16 commit: 0000023 date: 2024-06-20), Asterisk 20.4, Fr
 
 Project [Tags] & Containerd (--on-premise--)
 
-# Mục tiêu của dự án
-Triển khai hệ thống VoIP PBX Cloud and On-Premise, nhanh chóng, tự động và tối ưu tài nguyên.
+# Mục tiêu dự án
+Triển khai hệ thống VoIP PBX Cloud and On-Premise, Multi-tenant IP PBX, nhanh chóng, tự động và tối ưu tài nguyên.
 
 # Tính năng
 - Khởi tạo nhanh chóng tổng đài MBO với đầy đủ tính năng.(60 seconds install time from 0)
 - Kịch bản tổng đài PBX tích hợp dựa trên Asterisk®
-- Giao diện người và WEB quản lý kỹ thuật - FreePBX® (với các mô-đun được tải xuống mặc định để triển khai ban đầu nhanh hơn)
+- Giao diện người dùng và WEB quản lý kỹ thuật - FreePBX® (với các mô-đun được tải xuống mặc định để triển khai ban đầu nhanh hơn)
 - Không ràng buộc hạ tầng triển khai, tương thích export/import FreePBX.
 - Rocky Linux 8 64bit (RHEL dài hạn)
 - Kích thước container image nhỏ gọn (~640 MB so với 2400 MB tệp ISO FreePBX chính thức)
@@ -98,7 +98,7 @@ Triển khai hệ thống VoIP PBX Cloud and On-Premise, nhanh chóng, tự đ�
 	+ Tích hợp Zabbix, giám sát tình trạng dịch vụ (VoIP Team)
 	+ `tcpdump` và `sngrep` -> gỡ lỗi
 	+ Giám sát và tự động khởi động lại khi dịch vụ bị lỗi: Supervisord
-	+ Daemon MTA postfix (thông báo, thư thoại và FAX)
+	+ Daemon MTA postfix (thông báo, thư thoại & FAX)
 	+ Daemon cron - tác vụ theo lịch
 	+ TFTP & DHCP tích hợp DNSMasq for autoprovisioning
 	+ NTP Server
