@@ -84,7 +84,7 @@ Project [Tags] & Containerd (--on-premise--)
 Triển khai hệ thống VoIP PBX Cloud and On-Premise, Multi-tenant IP PBX, nhanh chóng, tự động và tối ưu tài nguyên.
 
 # Tính năng
-**- Bao gồm tất cả tính năng của tổng đài truyền thống**
+- **Bao gồm tất cả tính năng của tổng đài truyền thống**
 - Khởi tạo nhanh chóng tổng đài MBO với đầy đủ tính năng.(60 seconds install time from 0)
 - Kịch bản tổng đài PBX tích hợp dựa trên Asterisk®
 - Giao diện người dùng và WEB quản lý kỹ thuật - FreePBX® (với các mô-đun được tải xuống mặc định để triển khai ban đầu nhanh hơn)
