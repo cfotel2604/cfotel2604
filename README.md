@@ -53,22 +53,104 @@
 | **Developer**               | Software development with different languages ​​and technologies. |
 
 ### 🌐 My Projects
-- [Dự án phúc lợi xã hội](https://tuoitre.vn/trien-khai-tong-dai-oxymap-ho-tro-mien-phi-oxy-cho-benh-nhan-covid-19-dong-loat-tai-tp-thu-duc-20210912152632536.htm): OxyMap Covid19.
-- [PBX on K8S]: Mô hình tổng đài trên Kubernetes.
-![image](https://github.com/user-attachments/assets/bb6f7c9a-e1f5-4cc5-91fb-62422a7eb82c)
-- ...
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=ugoviti&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=ugoviti)
+[<img src="https://github-readme-stats.vercel.app/api?username=cfotel2604&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=cfotel2604)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugoviti&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=ugoviti)
 
-### 🏆 GitHub Trophies
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+============================================================================================
 
-<a href="https://github-trophies.vercel.app/?username=cfotel2604" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=cfotel2604&theme=radical&margin-w=4&margin-h=4">
-</a>
+# Name
+![image](https://github.com/user-attachments/assets/8a265034-56de-4e10-9fa7-28cea6411920)
 
-*User achievement statistics by [Github Trophies](https://github.com/cfotel2604/github-trophies)*
+![image](https://github.com/user-attachments/assets/9a8dd0ba-b3d5-420c-bea6-6585f4018997) mbPBX Cloud Native VoIP Telephony System
+
+# Description
+mbPBX is a VoIP phone system based on the Asterisk Engine.
+
+# Supported tags
+
+## Production Branch:
+mb1tel! 20.16.16 (build: 16 commit: 0000023 date: 2024-06-20), Asterisk 20.4, FreePBX 16, Rocky Linux 8.10, Kernel 5.4.0-181-generic
+
+## Development Branches:
+* Asterisk 20 LTS
+
+Project [Tags] & Containerd (--on-premise--)
+
+# Mục tiêu của dự án
+Triển khai hệ thống VoIP PBX Cloud and On-Premise, nhanh chóng, tự động và tối ưu tài nguyên.
+
+# Tính năng
+- Khởi tạo nhanh chóng tổng đài MBO với đầy đủ tính năng.(60 seconds install time from 0)
+- Kịch bản tổng đài PBX tích hợp dựa trên Asterisk®
+- Giao diện người và WEB quản lý kỹ thuật - FreePBX® (với các mô-đun được tải xuống mặc định để triển khai ban đầu nhanh hơn)
+- Không ràng buộc hạ tầng triển khai, tương thích export/import FreePBX.
+- Rocky Linux 8 64bit (RHEL dài hạn)
+- Kích thước container image nhỏ gọn (~640 MB so với 2400 MB tệp ISO FreePBX chính thức)
+- Multi-tenant IP PBX solution on Kubernetes
+- K8S Persistent storage mode and Ceph shared
+- Bao gồm tất cả tính năng của tổng đài truyền thống
+- Container Img bundle:
+	+ Fail2ban SIP và HTTP brute force attacks
+	+ Tích hợp Zabbix, giám sát tình trạng dịch vụ (VoIP Team)
+	+ `tcpdump` và `sngrep` -> gỡ lỗi
+	+ Giám sát và tự động khởi động lại khi dịch vụ bị lỗi: Supervisord
+	+ Daemon MTA postfix (thông báo, thư thoại và FAX)
+	+ Daemon cron - tác vụ theo lịch
+	+ TFTP & DHCP tích hợp DNSMasq for autoprovisioning
+	+ NTP Server
+	+ Apache/2.4 (Rocky Linux) & PHP 7.4 with the ionCube Loader + Zend OPcache
+	+ Support SSL Certificates 
+	+ Logrotating
+- Cấu hình tổng đài thực hiện thông qua tệp config trên K8S.
+- Container Setup:
+  - **mbPBX** (mbPBX-asterisk containerd: Asterisk with PBX distro + others services)
+  - **mbPBX-db** (mariadb cluster: Database Backend)
+
+# Screenshots
+#### mbPBX Monitoring (Zabbix):
+![mbpbx-zabbix](https://github.com/user-attachments/assets/84d392da-e1f2-43f0-a191-30d5bc0b1aed)
+
+#### mbPBX CLI (Asterisk):
+![mbpbx-console](https://github.com/user-attachments/assets/c72bc4c4-06a9-45fb-8d50-b4893d4e8187)
+
+#### Lens manage:
+![lens-dashboard](https://github.com/user-attachments/assets/d9b9a73d-08bd-40b5-98ed-5d33a369827a)
+
+# Deploy mbPBX
+Using **kubernetes app deployment**
+
+Available services:  
+  - `asterisk`
+  - `cron`
+  - `fail2ban`
+  - `httpd`
+  - `mbPBX`
+  - `tftpd`
+  - `postfix`
+  - `zabbix-agent`
+
+# Tested
+Tested Docker:
+  - docker-ce >= 20.0
+  - docker compose-plugin >= 2.0
+
+Tested Host Operating Systems:
+  - RHEL 6/7/8/9 based distro
+  - Fedora Core >30
+  - Debian 12
+  - Ubuntu 24.04
+    
+# TODO / Future Development
+- MBPBX with Raspberry PI 
+- Kubernetes deploy CI/CD
+
+# Quick reference
+- **Developed and maintained by**:
+  [Thanh TD](https://github.com/cfotel2604) @ MBO
+  
+- **Supported architectures**:
+  [`amd64`]
